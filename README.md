@@ -1,9 +1,9 @@
-# AI-Final-Project
+# SOS-Solver
 
 https://user-images.githubusercontent.com/69695824/135716972-2603511a-b8ec-497d-8a0f-fcb74201fc33.mp4
 
 ## Description
-In this project, we built AI agents for the paper and pencil game 'SOS'.
+This is the final project in AI course. In this project, we built AI agents for the paper and pencil game 'SOS'.
 We used search algorithms as: Alpha-Beta Pruning, Minimax and Expectimax
 with different heuristics, and compared their performances to find the 
 optimal agent (furthor details in AI final project subnittion.pdf).
